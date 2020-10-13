@@ -99,8 +99,6 @@ df.isnull().any()
 # In[2]:
 
 
-import pandas as pd
-df = pd.read_csv('fraud_prediction.csv')
 
 
 # In[3]:
